@@ -13,8 +13,6 @@ Contained In: git
 
 ## MiniBFI and MicroBFI
 
-[](https://github.com/DraftShift/StealthChanger/tree/main/UserMods/BT123/MiniBFI%20%2B%20MicroBFI#minibfi-and-microbfi)
-
 This is a miniature version of the BFI which does not extend into the front extrusions allowing for a crossbar to be mounted to a stock Voron frame ( [[Voron-2.4]] [[Micron]] etc. ).
 
 Fully based on and credits go to [BFI](https://github.com/clee/VoronBFI) By Clee + Hartk.
